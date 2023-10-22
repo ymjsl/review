@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34212.112
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test_10_22(常见动态内存错误）", "test_10_22(常见动态内存错误）\test_10_22(常见动态内存错误）.vcxproj", "{0295CAD2-4D1D-48C4-9CA7-1A993D531CBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0295CAD2-4D1D-48C4-9CA7-1A993D531CBD}.Debug|x64.ActiveCfg = Debug|x64
+		{0295CAD2-4D1D-48C4-9CA7-1A993D531CBD}.Debug|x64.Build.0 = Debug|x64
+		{0295CAD2-4D1D-48C4-9CA7-1A993D531CBD}.Debug|x86.ActiveCfg = Debug|Win32
+		{0295CAD2-4D1D-48C4-9CA7-1A993D531CBD}.Debug|x86.Build.0 = Debug|Win32
+		{0295CAD2-4D1D-48C4-9CA7-1A993D531CBD}.Release|x64.ActiveCfg = Release|x64
+		{0295CAD2-4D1D-48C4-9CA7-1A993D531CBD}.Release|x64.Build.0 = Release|x64
+		{0295CAD2-4D1D-48C4-9CA7-1A993D531CBD}.Release|x86.ActiveCfg = Release|Win32
+		{0295CAD2-4D1D-48C4-9CA7-1A993D531CBD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A601FA0-A6D4-47FE-9ECC-3F4804CAE2A2}
+	EndGlobalSection
+EndGlobal
